@@ -1,2 +1,2 @@
 # toto
-a project to test github
+A project to test github.
